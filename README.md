@@ -35,10 +35,4 @@ A secure web-based application designed to ensure document authenticity, integri
 
 ---
 
----
 
-## Project Documentation & Report
-
-For in-depth analysis, system design specifications, and complete experimental evaluation, refer to the official report:
-
-* 📄 [Read Full System Report (PDF)](assets/project_report.pdf)
