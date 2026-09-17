@@ -35,10 +35,10 @@ A secure web-based application designed to ensure document authenticity, integri
 
 ---
 
-## 🚀 Installation & Setup
+---
 
-```bash
-git clone https://github.com/your-username/secure-e-documentation-verification.git
-cd secure-e-documentation-verification
-pip install -r requirements.txt
-python app.py
+## Project Documentation & Report
+
+For in-depth analysis, system design specifications, and complete experimental evaluation, refer to the official report:
+
+* 📄 [Read Full System Report (PDF)](assets/project_report.pdf)
